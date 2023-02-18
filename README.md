@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/105129772/219855504-6a564806-c94b-4268-b8b3-6344b0ba3ca4.png)
 KNN:
 ![image](https://user-images.githubusercontent.com/105129772/219855478-4388f904-e092-40c7-9787-ba29971b2061.png)
-
+Neural Net:
 ![image](https://user-images.githubusercontent.com/105129772/219855531-676493c0-765a-439f-a73a-89096dae3774.png)
 
 
