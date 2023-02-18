@@ -1,0 +1,6 @@
+imputer = SimpleImputer(strategy='mean')
+imputed = imputer.fit_transform(df_copy)
+df_imputed = pd.DataFrame(imputed, columns = df_copy.columns)
+df3 = df_imputed.copy(deep=True)
+X, y = df3[df3.columns[:-1]].values.astype(int), df3[df3.columns[-1]].values.astype(int)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
