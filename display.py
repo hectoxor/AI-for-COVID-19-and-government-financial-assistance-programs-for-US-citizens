@@ -1,0 +1,5 @@
+print("Best NN hyperparameters: ", study.best_params)
+print(f"Training finished in {orig_train_total_time} seconds")
+print(f"Score: {orig_score}. Scoring took {orig_test_total_time} seconds")
+display(pd.concat([df_copy[col] for col in df_copy.columns], axis=1))
+#print(df_imputed[['mig_chg_reg']])
