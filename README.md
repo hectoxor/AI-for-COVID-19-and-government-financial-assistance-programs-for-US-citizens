@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/105129772/219855461-6b48b24f-77a9-4b67-9a43-bfa46056f782.png)
 ![image](https://user-images.githubusercontent.com/105129772/219855496-043d0d52-88f2-4cf4-a5f0-33a0e8be2c20.png)
 ![image](https://user-images.githubusercontent.com/105129772/219855504-6a564806-c94b-4268-b8b3-6344b0ba3ca4.png)
-
+KNN:
 ![image](https://user-images.githubusercontent.com/105129772/219855478-4388f904-e092-40c7-9787-ba29971b2061.png)
 
 ![image](https://user-images.githubusercontent.com/105129772/219855531-676493c0-765a-439f-a73a-89096dae3774.png)
